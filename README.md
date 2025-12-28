@@ -53,7 +53,7 @@ This dashboard is designed for quick insights, data-driven decision-making, and 
 ##  Author
 
 **Deepjit Ganguly**  
-📧 [deepjitganguly@gmail.com](mailto:deepjitganguly@gmail.com)  
+📧 [janashivam1393@gmail.com](mailto:janashivam1393@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/deepjit-ganguly-273423243/) | [GitHub](https://github.com/deepjit07)
 
 ---
