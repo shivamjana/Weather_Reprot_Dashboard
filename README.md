@@ -21,7 +21,7 @@ This dashboard is designed for quick insights, data-driven decision-making, and 
 <table> <tr> <td><img src="https://github.com/shivamjana/Weather_Reprot_Dashboard/blob/main/Screenshot%20(69).png" width="400"></td> <td><img src="https://github.com/shivamjana/Weather_Reprot_Dashboard/blob/main/Screenshot%20(70).png" width="400"></td> </tr> <tr> <td><img src="https://github.com/shivamjana/Weather_Reprot_Dashboard/blob/main/Screenshot%20(71).png" width="400"></td> <td><img src="https://github.com/shivamjana/Weather_Reprot_Dashboard/blob/main/Screenshot%20(72).png" width="400"></td> </tr> </table> 
 
 ### Demo GIF
-<img src="https://github.com/deepjit07/Weather_Dashboard/blob/main/Dashboard%20Images/Wether_Dashboard%20-%20Power%20BI%20-%20Google%20Chrome%202025-08-12%2021-09-37.mp4.gif" width="800">
+<img src="https://github.com/shivamjana/Weather_Reprot_Dashboard/blob/main/Wether_Dashboard%20-%20Power%20BI%20-%20Google%20Chrome%202025-08-12%2021-09-37.mp4.gif" width="800">
 ---
 
 
